@@ -12,4 +12,5 @@ occupations:
 addresses:
   github: https://github.com/araujo-angel
   linkedin: https://www.linkedin.com/in/angelica-araujo/
+  lattes: http://lattes.cnpq.br/5450364691012763
 ---
