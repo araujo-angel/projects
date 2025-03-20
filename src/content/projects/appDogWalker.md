@@ -12,5 +12,6 @@ category:
 tags:
   - spring boot
   - angular material
+  - firebase
 owners:
   - 20231370001
